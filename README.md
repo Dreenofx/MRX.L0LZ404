@@ -13,6 +13,7 @@ Tools For Troll You Friends And Just Have Fun!!!
 
 [+] Git Clone https://github.com/Dreenofx/MRX.L0LZ404.git
 [+] ls
+[+] cd Mother_Fucker
 [+] Bash TrollMrx.sh
 ==========================================================================
 |+++++++++++++++++++++++++++++MRX.L0LZ404++++++++++++++++++++++++++++++++|
